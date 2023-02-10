@@ -1,2 +1,2 @@
 #!/bin/bash
-  chmod 555 hello README.md
+  chmod 751 hello
